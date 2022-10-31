@@ -79,7 +79,6 @@
             this.txtFahrenheight.Name = "txtFahrenheight";
             this.txtFahrenheight.Size = new System.Drawing.Size(141, 32);
             this.txtFahrenheight.TabIndex = 3;
-            this.txtFahrenheight.TextChanged += new System.EventHandler(this.txtFahrenheightChange);
             // 
             // txtCelcious
             // 
